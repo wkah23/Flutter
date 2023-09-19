@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "256762339198",
+    "firebase_url": "https://flutter-exam-79a6f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutter-exam-79a6f",
+    "storage_bucket": "flutter-exam-79a6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256762339198:android:1aded1c259be378e5e9d2f",
+        "android_client_info": {
+          "package_name": "com.study.firebase.core"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb046UyqaxZeFc_uK7yMnlR191P3nLBCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256762339198:android:f9b88deeaeb489cb5e9d2f",
+        "android_client_info": {
+          "package_name": "com.study.firebase.realtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb046UyqaxZeFc_uK7yMnlR191P3nLBCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
